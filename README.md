@@ -1,2 +1,2 @@
-# .Net-CW
-Store archives of submitted C# .Net Workshops
+# ASP.NET Weekly
+Store archives of submitted ASP.NET Weekly Workshops.
